@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "4596294479",
+    "project_id": "vibes-af75e",
+    "storage_bucket": "vibes-af75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4596294479:android:fdfc04ad50a3ae80bedb3a",
+        "android_client_info": {
+          "package_name": "com.cleverlycode.vibes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "4596294479-vt28b0ndiu78nq6la85g5cnp7fvtnc80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOGpGpu8yM9b13ljlyqMHWYlaA2BGwgC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "4596294479-vt28b0ndiu78nq6la85g5cnp7fvtnc80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
